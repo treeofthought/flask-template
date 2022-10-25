@@ -21,6 +21,11 @@ run linting
 ## Initial Setup.
 With a mind towards one day automating flask projects. This is not the way to get the app quickly duplicated.
 
+### Cloning
+Remember you need to change `git@github.com` to `git@github-treeofthought`
+
+`git config user.email "treeofthoughtblog@gmail.com"` will give the correct commit author.
+
 ### Create virtual env
 `mkvenv`
 `pip install flask`
